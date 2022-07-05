@@ -1,5 +1,5 @@
 # NFT Marketplace - Showcase
-![NFT Marketplace](https://i.ibb.co/X5kYdvB/image.png)
+![NFT Marketplace](https://github.com/rahulkarda/nft-marketplace-showcase/blob/master/src/assets/site.jpg?raw=true)
 
 ## Introduction
 This is a code repository for the NFT Marketplace Showcase Website.
