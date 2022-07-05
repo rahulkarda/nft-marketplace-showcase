@@ -36,7 +36,7 @@ const App = () => {
 
       <div className="px-4 py-2 justify-center items-center bg-primary flex-col text-center banner04">
         <p className={`${styles.pText} ${styles.whiteText}`}>Made with {"💛"} by  
-        <span className="bold"> Rahul Karda</span>
+        <span onClick={() => { window.open('https://rahulkarda.netlify.app', "_blank") }} className="bold hover:cursor-pointer hover:underline"> Rahul Karda</span>
         </p>
       </div>
     </>

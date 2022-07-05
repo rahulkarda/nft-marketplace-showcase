@@ -1,5 +1,4 @@
 import React from 'react';
-
 import styles from '../styles/Global';
 
 const Button = ({ assetUrl, link }) => {
